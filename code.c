@@ -1,22 +1,3 @@
-/*
-Questão 04
-Ler 20 elementos de uma matriz A tipo vetor e construir uma matriz B de mesma dimensão com os
-mesmos elementos de A, sendo que estes deverão estar invertidos. Ou seja, o primeiro elemento de A
-passa a ser o último elemento de B. O segundo elemento de A passa a ser o penúltimo de B e assim por
-diante.
-
-entrada de dados:
-VetorA com 20 elementos.
-
-saida de dados:
-VetorB com 20 elementos.
-
-processamento:
-popular vetor A com numeros inteiros;
-popular o vetor B apartir do final com os elementos do vetorA;
-imprimir os valores do vetorB;
-*/
-
 
 #include <stdio.h>
 #include <stdlib.h>
